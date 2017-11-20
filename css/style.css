@@ -9,6 +9,38 @@
     border-radius: 1em;
 }
 
+p{
+  font-family: times;
+  font-size: 30px;
+  text-align: center;
+  color: black;
+} 
+
+#sum { background-color: #8CB5C8;
+    height: 300px;
+    
+}
+h1{
+    text-align: center
+    
+}
+
+#lol{
+    background-color: white;
+    height:  500px;
+text-align: center; }
+
+#loll{
+    background-color: #C89A8C;
+    height: 300px;
+    width: auto;
+    font-family: times; 
+    color:white;
+    text-align: center;
+
+    
+}
+
 /* Header CSS */
 
 
